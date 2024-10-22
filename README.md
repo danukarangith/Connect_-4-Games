@@ -11,10 +11,6 @@ This is a Java-based implementation of the classic Connect Four game, with suppo
 - **Legal move checking:** Ensures moves are made within the rules.
 - **MVC architecture:** Organized code structure following Model-View-Controller design pattern.
 
-## Project Structure
-
-src/ ├── main/ │ ├── java/ │ │ ├── lk/ijse/dep/ │ │ │ ├── controller/ │ │ │ │ ├── BoardController.java │ │ │ │ ├── CreatePlayerController.java │ │ │ ├── service/ │ │ │ │ ├── AiPlayer.java │ │ │ │ ├── HumanPlayer.java │ │ │ ├── util/ │ │ │ │ ├── AppInitializer.java │ │ │ │ ├── Launcher.java │ │ │ ├── Board.java │ │ │ ├── Player.java │ │ │ ├── Winner.java ├── resources/ │ ├── asset/ │ ├── style/ │ ├── view/
-
 
 ### Key Classes
 
